@@ -1,7 +1,4 @@
-{
-"status": "OK", "num_results": 2, 
-"results": 
-[ 
+[
 { "id": "1", 
 "lat": "50.726894", 
 "lng": "7.8775788", 
@@ -17,4 +14,4 @@
 "has_detail_page": "1", 
 "webpage": "https://de.wikipedia.org/wiki/Elkenrother_Weiher" }
 ]
-}
+
